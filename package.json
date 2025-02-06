@@ -1,0 +1,22 @@
+{
+  "name": "devops-workshop",
+  "version": "1.0.0",
+  "description": "A simple Devops Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaithanyaBandela/devops-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChaithanyaBandela/devops-workshop/issues"
+  },
+  "homepage": "https://github.com/ChaithanyaBandela/devops-workshop#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
